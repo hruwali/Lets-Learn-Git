@@ -1,6 +1,6 @@
 public class Diff {
 
-    public static void name() {
+    public static void main() {
         
     }
     
